@@ -1,0 +1,1 @@
+This bug occurs when using the Expo `Camera` API with custom camera controls.  The issue is that after taking a photo, the camera preview freezes and becomes unresponsive.  Attempting to retake a picture or perform other actions on the `Camera` component results in no response.  The problem is intermittent and doesn't always occur after taking a picture.
